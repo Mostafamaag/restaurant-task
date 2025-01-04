@@ -24,5 +24,6 @@ This is frontend restaurant application built with Next.js. It handles login, si
     npm run dev
     
     setup your backend url in .env file
+    setup your firebase file
 
 
